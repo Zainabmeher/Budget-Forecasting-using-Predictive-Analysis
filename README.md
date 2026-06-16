@@ -24,7 +24,13 @@ SQL – Data extraction, querying, filtering, and analysis of hospital expenditu
 Power BI – Interactive dashboard development and data visualization.
 Power Query – Data cleaning, transformation, and preparation.
 Linear Trend Forecasting – Used to identify expenditure trends and estimate future spending patterns.
-Data Visualization Techniques – Used to present insights through charts, KPIs, slicers, and forecasting visuals. 
+Data Visualization Techniques – Used to present insights through charts, KPIs, slicers, and forecasting visuals.  
+
+DATA EXTRACTION USING SQL
+The expenditure data used in this study was extracted from hospital records using SQL queries. SQL was employed to retrieve department-wise expenditure information, filter relevant records, and organize monthly expenditure data for analysis. The extracted data was then validated and prepared for further processing in Power BI and Excel.
+
+The use of SQL enabled efficient handling of expenditure records and ensured accurate retrieval of historical data required for trend analysis and forecasting.
+
 
 FORECAST ANALYSIS
 Historical expenditure trends were analyzed using linear trend forecasting techniques. The forecast suggests that departmental expenditure will continue to increase, with ICU expected to remain the highest-cost department. 
